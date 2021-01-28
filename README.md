@@ -1,2 +1,2 @@
 # Data-Analysis
-Some data which I analyzed 
+Some data which I analyzed. Feel free to contact/correct me.
